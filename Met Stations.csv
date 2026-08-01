@@ -1,0 +1,86 @@
+Station Number,Station Name,County,Minutely,Hourly,Daily,Monthly
+3310,Abbeyfeale (Caherlane),Limerick,No,No,Yes,Yes
+7412,Adamstown,Dublin,No,No,Yes,No
+6411,Adare Manor,Limerick,No,No,Yes,No
+5704,Aherlamore,Cork,No,No,Yes,Yes
+2638,Ardee (Boharnamoe),Louth,No,No,Yes,Yes
+1838,Ardee (St.Brigid'S Hosp.),Louth,No,No,Yes,Yes
+1609,Ardfert (Liscahane),Kerry,No,No,Yes,Yes
+2009,Ardfert Ballymacquinn,Kerry,No,No,Yes,No
+8612,Ardfinnan (Garryduff),Tipperary,No,No,Yes,Yes
+4011,Ardnacrusha (Gen.Stn.No.2),Clare,No,No,Yes,Yes
+2440,Ardnawark Barnesmore,Donegal,No,No,Yes,Yes
+2821,Ardrahan (Grannagh),Galway,No,No,Yes,Yes
+2736,Ardtarmon,Sligo,No,No,Yes,Yes
+3324,Arklow (Ballyrichard House),Wicklow,No,No,Yes,No
+6337,Arvagh (Cormore),Cavan,No,No,Yes,Yes
+3924,Ashford (Cronykeery),Wicklow,No,No,Yes,Yes
+3124,Ashford (Glanmore Gardens),Wicklow,No,No,Yes,Yes
+2610,Athea (Templeathea),Limerick,No,No,Yes,Yes
+1875,Athenry,Galway,Yes,Yes,Yes,Yes
+2928,Athleague,Roscommon,No,No,Yes,Yes
+4629,Athlone (Glynnwood),Westmeath,No,No,Yes,Yes
+1929,Athlone O.P.W.,Westmeath,No,No,Yes,Yes
+6414,Athy (Chanterlands),Kildare,No,No,Yes,Yes
+7014,Athy (Levitstown),Kildare,No,No,Yes,Yes
+3937,Aughnasheelan (Miskawn),Leitrim,No,No,Yes,Yes
+2820,Aughrim (Killacloran),Wicklow,No,No,Yes,Yes
+4031,Bailieboro (Duneena),Cavan,No,No,Yes,Yes
+4131,Bailieboro (Leiter),Cavan,No,No,Yes,Yes
+4835,Ballina (Attymass) ,Mayo,No,No,Yes,Yes
+3735,Ballina (Shanaghy),Mayo,No,No,Yes,Yes
+5535,Ballina Golf Club,Mayo,No,No,Yes,Yes
+7529,Ballinagare (Ballincool),Roscommon,No,No,Yes,Yes
+5937,Ballinamore (Creevy No.2),Roscommon,No,No,Yes,Yes
+6137,Ballinamore-Tullyoscar,Roscommon,No,No,Yes,Yes
+5506,Ballinamult (Doon),Waterford,No,No,Yes,Yes
+2628,Ballinasloe (Derrymullen),Galway,No,No,Yes,Yes
+2828,Ballinasloe (Pollboy Lock),Galway,No,No,Yes,Yes
+6204,Ballincurrig_(Peafield),Cork,No,No,Yes,Yes
+5002,Ballineen (Caherkirky),Cork,No,No,Yes,Yes
+4602,Ballineen (Carbery),Cork,No,No,Yes,Yes
+3004,Ballingeary (Voc.Sch.),Cork,No,No,Yes,Yes
+8204,Ballingeary_tooreenduff,Cork,No,No,Yes,Yes
+4105,Ballinskelligs The Glen,Kerry,No,No,Yes,Yes
+5702,Ballinspittle (Kilkerran),Cork,No,No,Yes,Yes
+2731,Ballivor (Hill Of Down),Meath,No,No,Yes,Yes
+6623,Ballyboden,Dublin,No,No,Yes,Yes
+1642,Ballybofey Navenny,Donegal,No,No,Yes,Yes
+4637,Ballyconnell (Mullaghduff),Cavan,No,No,Yes,Yes
+2834,Ballycroy (Knockmoyleen),Mayo,No,No,Yes,Yes
+6006,Ballydesmond,Cork,No,No,Yes,Yes
+3524,Ballyedmonduff House,Dublin,No,No,Yes,Yes
+2528,Ballyforan (Bord Na Mona),Dublin,No,No,Yes,Yes
+6311,Ballyhahill_glenbawn,Limerick,No,No,Yes,Yes
+675,Ballyhaise,Cavan,Yes,Yes,Yes,Yes
+5727,Ballyhaunis (Lavallyroe),Mayo,No,No,Yes,Yes
+7906,Ballyhooly (Castleblagh),Cork,No,No,Yes,Yes
+2030,Ballyjamesduff (Kilcully),Cavan,No,No,Yes,Yes
+4404,Ballymacoda (Mountcotton),Cork,No,No,Yes,Yes
+6729,Ballymore,Westmeath,No,No,Yes,Yes
+3823,Ballymore Eustace D.C.W.W.,Kildare,No,No,Yes,Yes
+2375,Belmullet,Mayo,Yes,Yes,Yes,Yes
+3723,Casement Aerodrome,Dublin,No,Yes,Yes,Yes
+2175,Claremorris,Mayo,Yes,Yes,Yes,Yes
+1705,Cloone Lake (Caragh River Area),Kerry,No,No,Yes,Yes
+3904,Cork Airport,Cork,No,Yes,Yes,Yes
+532,Dublin Airport,Dublin,No,Yes,Yes,Yes
+1375,Dunsany,Meath,Yes,Yes,Yes,Yes
+2075,Finner,Donegal,Yes,Yes,Yes,Yes
+1475,Gurteen,Tipperary,Yes,Yes,Yes,Yes
+1775,Johnstown Castle,Wexford,Yes,Yes,Yes,Yes
+4935,Knock Airport,Mayo,No,Yes,Yes,Yes
+275,Mace Head,Galway,Yes,Yes,Yes,Yes
+1575,Malin Head,Donegal,Yes,Yes,Yes,Yes
+1275,Markree Castle,Sligo,Yes,Yes,Yes,Yes
+575,Moore Park,Cork,Yes,Yes,Yes,Yes
+1975,Mount Dillon,Roscommon,Yes,Yes,Yes,Yes
+875,Mullingar,Westmeath,Yes,Yes,Yes,Yes
+1175,Newport,Mayo,Yes,Yes,Yes,Yes
+375,Oak Park,Carlow,Yes,Yes,Yes,Yes
+175,Phoenix Park,Dublin,Yes,Yes,Yes,Yes
+1075,Roches Point,Cork,Yes,Yes,Yes,Yes
+518,Shannon Airport,Clare,No,Yes,Yes,Yes
+3402,Sherkin Island,Cork,No,No,Yes,Yes
+775,Sherkinisland,Cork,Yes,Yes,Yes,Yes
+2275,Valentia Observatory,Kerry,Yes,Yes,Yes,Yes
