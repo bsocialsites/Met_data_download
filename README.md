@@ -60,36 +60,17 @@ download_met_data()
 
 ### Arguments
 
-  -----------------------------------------------------------------------
-  Argument                            Description
-  ----------------------------------- -----------------------------------
-  `timeline`                          Data frequency: `"hourly"`,
-                                      `"daily"`, or `"monthly"`.
+| Argument | Description |
+|---|---|
+| `timeline` | Data frequency: `"hourly"`, `"daily"`, or `"monthly"`. |
+| `start_date` | Start date as a `Date` object or `"YYYY-MM-DD"`. |
+| `end_date` | End date as a `Date` object or `"YYYY-MM-DD"`. |
+| `station` | Met Éireann station ID, e.g. `1775` or `"1775"`. |
+| `timeout_sec` | Maximum time allowed for each download request. Default = `60` seconds. |
+| `max_retries` | Maximum number of download attempts. Default = `3`. |
+| `refresh_cache` | If `TRUE`, downloads a fresh copy of the station database. Default = `FALSE`. |
+| `verbose` | If `TRUE`, displays progress and completion messages. Default = `TRUE`. |
 
-  `start_date`                        Start date as a `Date` object or
-                                      `"YYYY-MM-DD"`.
-
-  `end_date`                          End date as a `Date` object or
-                                      `"YYYY-MM-DD"`.
-
-  `station`                           Met Éireann station ID, e.g. `1775`
-                                      or `"1775"`.
-
-  `timeout_sec`                       Maximum time allowed for each
-                                      download request. Default = `60`
-                                      seconds.
-
-  `max_retries`                       Maximum number of download
-                                      attempts. Default = `3`.
-
-  `refresh_cache`                     If `TRUE`, downloads a fresh copy
-                                      of the station database. Default =
-                                      `FALSE`.
-
-  `verbose`                           If `TRUE`, displays progress and
-                                      completion messages. Default =
-                                      `TRUE`.
-  -----------------------------------------------------------------------
 
 ## Basic Usage
 
