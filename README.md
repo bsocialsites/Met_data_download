@@ -229,18 +229,18 @@ reports the frequencies available for that station.
 
 ## Hourly Weather Variables
 
-  Variable   Description                  Unit
-  ---------- ---------------------------- ---------
-  `date`     Date and time                UTC
-  `rain`     Precipitation amount         mm
-  `temp`     Air temperature              °C
-  `wetb`     Wet bulb temperature         °C
-  `dewpt`    Dew point temperature        °C
-  `vappr`    Vapour pressure              hPa
-  `rhum`     Relative humidity            \%
-  `msl`      Mean sea level pressure      hPa
-  `wdsp`     Mean wind speed              kt
-  `wddir`    Predominant wind direction   degrees
+| Variable | Description | Unit |
+|---|---|---|
+| `date` | Date and time | UTC |
+| `rain` | Precipitation amount | mm |
+| `temp` | Air temperature | °C |
+| `wetb` | Wet bulb temperature | °C |
+| `dewpt` | Dew point temperature | °C |
+| `vappr` | Vapour pressure | hPa |
+| `rhum` | Relative humidity | % |
+| `msl` | Mean sea level pressure | hPa |
+| `wdsp` | Mean wind speed | kt |
+| `wddir` | Predominant wind direction | degrees |
 
 The original date/time field is converted into `Timestamp`, `Date`, and
 `Hour`. A `Days` variable is generated from the sequential rank of each
@@ -248,42 +248,42 @@ unique date.
 
 ## Daily Weather Variables
 
-  Variable   Description                                      Unit
-  ---------- ------------------------------------------------ ---------
-  `date`     Observation date                                 UTC
-  `rain`     Precipitation amount                             mm
-  `maxtp`    Maximum air temperature                          °C
-  `mintp`    Minimum air temperature                          °C
-  `gmin`     Grass minimum temperature                        °C
-  `soil`     Mean 10 cm soil temperature                      °C
-  `cbl`      Mean CBL pressure                                hPa
-  `wdsp`     Mean wind speed                                  kt
-  `hm`       Highest 10-minute mean wind speed                kt
-  `ddhm`     Wind direction at maximum 10-minute mean         degrees
-  `hg`       Highest gust                                     kt
-  `pe`       Potential evapotranspiration                     mm
-  `evap`     Evaporation                                      mm
-  `smd_wd`   Soil moisture deficit, well-drained soil         mm
-  `smd_md`   Soil moisture deficit, moderately drained soil   mm
-  `smd_pd`   Soil moisture deficit, poorly drained soil       mm
-  `glorad`   Global radiation                                 J cm⁻²
+| Variable | Description | Unit |
+|---|---|---|
+| `date` | Observation date | UTC |
+| `rain` | Precipitation amount | mm |
+| `maxtp` | Maximum air temperature | °C |
+| `mintp` | Minimum air temperature | °C |
+| `gmin` | Grass minimum temperature | °C |
+| `soil` | Mean 10 cm soil temperature | °C |
+| `cbl` | Mean CBL pressure | hPa |
+| `wdsp` | Mean wind speed | kt |
+| `hm` | Highest 10-minute mean wind speed | kt |
+| `ddhm` | Wind direction at maximum 10-minute mean | degrees |
+| `hg` | Highest gust | kt |
+| `pe` | Potential evapotranspiration | mm |
+| `evap` | Evaporation | mm |
+| `smd_wd` | Soil moisture deficit, well-drained soil | mm |
+| `smd_md` | Soil moisture deficit, moderately drained soil | mm |
+| `smd_pd` | Soil moisture deficit, poorly drained soil | mm |
+| `glorad` | Global radiation | J cm⁻² |
 
 ## Monthly Weather Variables
 
-  Variable   Description                 Unit
-  ---------- --------------------------- -------
-  `year`     Year                        
-  `month`    Month                       
-  `rain`     Precipitation amount        mm
-  `meant`    Mean air temperature        °C
-  `maxtp`    Maximum air temperature     °C
-  `mintp`    Minimum air temperature     °C
-  `mnmax`    Mean maximum temperature    °C
-  `mnmin`    Mean minimum temperature    °C
-  `gmin`     Grass minimum temperature   °C
-  `wdsp`     Mean wind speed             kt
-  `mxgt`     Highest gust                kt
-  `sun`      Sunshine duration           hours
+| Variable | Description | Unit |
+|---|---|---|
+| `year` | Year | |
+| `month` | Month | |
+| `rain` | Precipitation amount | mm |
+| `meant` | Mean air temperature | °C |
+| `maxtp` | Maximum air temperature | °C |
+| `mintp` | Minimum air temperature | °C |
+| `mnmax` | Mean maximum temperature | °C |
+| `mnmin` | Mean minimum temperature | °C |
+| `gmin` | Grass minimum temperature | °C |
+| `wdsp` | Mean wind speed | kt |
+| `mxgt` | Highest gust | kt |
+| `sun` | Sunshine duration | hours |
 
 The function also creates `Date` and `Month Name`. The monthly `Date`
 represents the first day of the corresponding calendar month.
